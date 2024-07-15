@@ -1,0 +1,33 @@
+27 Dec 2023 13:31:41  INFO logger - UI button was clicked
+27 Dec 2023 13:31:47  INFO logger - Next button was clicked
+27 Dec 2023 13:31:49  INFO logger - Next button was clicked
+27 Dec 2023 13:31:51  INFO logger - Lets Move button was clicked
+27 Dec 2023 13:31:54  INFO logger - Email was entered
+27 Dec 2023 13:31:57  INFO logger - Password was entered
+27 Dec 2023 13:32:01  INFO logger - Login button was clicked
+27 Dec 2023 13:32:28  INFO logger - ClassName :tests.LoginTest
+27 Dec 2023 13:32:28  INFO logger - MethodName :User unable login due to 
+27 Dec 2023 13:32:28  INFO logger - Exception :Expected condition failed: waiting for visibility of Located by By.chained({By.xpath: //android.view.View[@content-desc='My Activity']}) (tried for 20 second(s) with 500 milliseconds interval)
+27 Dec 2023 13:32:28  INFO logger - -----------------------------------------------------------------------------------
+11 Jul 2024 22:53:08  INFO logger - ClassName :tests.LoginTest
+11 Jul 2024 22:53:08  INFO logger - MethodName :User unable login due to 
+11 Jul 2024 22:53:08  INFO logger - Exception :Locator Strategy 'css selector' is not supported for this session
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Build info: version: '4.10.0', revision: 'c14d967899'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8.1'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [9ba6b7e7-fce7-4f30-b50d-02d6c8af0a7d, findElement {using=css selector, value=#uiButton}]
+Capabilities {appium:databaseEnabled: false, appium:desired: {deviceName: deviceName, platformName: ANDROID, platformVersion: platformVersion, udid: ca15f7c6}, appium:deviceApiLevel: 33, appium:deviceManufacturer: Xiaomi, appium:deviceModel: M2101K6I, appium:deviceName: ca15f7c6, appium:deviceScreenDensity: 440, appium:deviceScreenSize: 1080x2400, appium:deviceUDID: ca15f7c6, appium:javascriptEnabled: true, appium:locationContextEnabled: false, appium:networkConnectionEnabled: true, appium:pixelRatio: 2.75, appium:platformVersion: 13, appium:statBarHeight: 93, appium:takesScreenshot: true, appium:udid: ca15f7c6, appium:viewportRect: {height: 2084, left: 0, top: 93, width: 1080}, appium:warnings: {}, appium:webStorageEnabled: false, platformName: ANDROID}
+Session ID: 9ba6b7e7-fce7-4f30-b50d-02d6c8af0a7d
+11 Jul 2024 22:53:08  INFO logger - -----------------------------------------------------------------------------------
+12 Jul 2024 19:07:20  INFO logger - ClassName :tests.LoginTest
+12 Jul 2024 19:07:20  INFO logger - MethodName :User unable login due to 
+12 Jul 2024 19:07:20  INFO logger - Exception :Locator Strategy 'css selector' is not supported for this session
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Build info: version: '4.10.0', revision: 'c14d967899'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8.1'
+Driver info: io.appium.java_client.android.AndroidDriver
+Command: [7bd121fe-2e6d-44e7-95ec-6184ff57d9af, findElement {using=css selector, value=#uiButton}]
+Capabilities {appium:automationName: UiAutomator2, appium:databaseEnabled: false, appium:desired: {automationName: UiAutomator2, deviceName: Redmi, platformName: ANDROID, platformVersion: 13, udid: ca15f7c6}, appium:deviceApiLevel: 33, appium:deviceManufacturer: Xiaomi, appium:deviceModel: M2101K6I, appium:deviceName: ca15f7c6, appium:deviceScreenDensity: 440, appium:deviceScreenSize: 1080x2400, appium:deviceUDID: ca15f7c6, appium:javascriptEnabled: true, appium:locationContextEnabled: false, appium:networkConnectionEnabled: true, appium:pixelRatio: 2.75, appium:platformVersion: 13, appium:statBarHeight: 93, appium:takesScreenshot: true, appium:udid: ca15f7c6, appium:viewportRect: {height: 2084, left: 0, top: 93, width: 1080}, appium:warnings: {}, appium:webStorageEnabled: false, platformName: ANDROID}
+Session ID: 7bd121fe-2e6d-44e7-95ec-6184ff57d9af
+12 Jul 2024 19:07:20  INFO logger - -----------------------------------------------------------------------------------
